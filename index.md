@@ -1,3 +1,3 @@
-# [Home](index)
+# [Home](index) [About](about)
 
 ### Welcome
